@@ -1,0 +1,11 @@
+Project Goal : Build a ML model to recognize handwritten digits(0-9) using MNIST dataset.
+
+Requirements:
+1. Numpy for array operations
+2. Matplotlib for image visualization
+3. Tensorflow/Keras to build, train and test the neural network
+4. MNIST dataset is built into keras for easy access
+
+Final Test Accuracy comes out to be 97.43%
+
+Understanding of the syntax and functions used in code are added as comments in the main file.
